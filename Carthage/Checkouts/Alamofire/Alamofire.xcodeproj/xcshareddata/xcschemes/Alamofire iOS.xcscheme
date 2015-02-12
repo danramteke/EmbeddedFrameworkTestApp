@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "652314B71A8CF730009BAA58"
-               BuildableName = "EmbeddedFrameworkTestApp.app"
-               BlueprintName = "EmbeddedFrameworkTestApp"
-               ReferencedContainer = "container:EmbeddedFrameworkTestApp.xcodeproj">
+               BlueprintIdentifier = "F8111E3219A95C8B0040E7D1"
+               BuildableName = "Alamofire.framework"
+               BlueprintName = "Alamofire iOS"
+               ReferencedContainer = "container:Alamofire.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "652314CC1A8CF730009BAA58"
-               BuildableName = "EmbeddedFrameworkTestAppTests.xctest"
-               BlueprintName = "EmbeddedFrameworkTestAppTests"
-               ReferencedContainer = "container:EmbeddedFrameworkTestApp.xcodeproj">
+               BlueprintIdentifier = "F8111E3D19A95C8B0040E7D1"
+               BuildableName = "Alamofire iOS Tests.xctest"
+               BlueprintName = "Alamofire iOS Tests"
+               ReferencedContainer = "container:Alamofire.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "652314CC1A8CF730009BAA58"
-               BuildableName = "EmbeddedFrameworkTestAppTests.xctest"
-               BlueprintName = "EmbeddedFrameworkTestAppTests"
-               ReferencedContainer = "container:EmbeddedFrameworkTestApp.xcodeproj">
+               BlueprintIdentifier = "F8111E3D19A95C8B0040E7D1"
+               BuildableName = "Alamofire iOS Tests.xctest"
+               BlueprintName = "Alamofire iOS Tests"
+               ReferencedContainer = "container:Alamofire.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "652314B71A8CF730009BAA58"
-            BuildableName = "EmbeddedFrameworkTestApp.app"
-            BlueprintName = "EmbeddedFrameworkTestApp"
-            ReferencedContainer = "container:EmbeddedFrameworkTestApp.xcodeproj">
+            BlueprintIdentifier = "F8111E3219A95C8B0040E7D1"
+            BuildableName = "Alamofire.framework"
+            BlueprintName = "Alamofire iOS"
+            ReferencedContainer = "container:Alamofire.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -72,15 +72,15 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "652314B71A8CF730009BAA58"
-            BuildableName = "EmbeddedFrameworkTestApp.app"
-            BlueprintName = "EmbeddedFrameworkTestApp"
-            ReferencedContainer = "container:EmbeddedFrameworkTestApp.xcodeproj">
+            BlueprintIdentifier = "F8111E3219A95C8B0040E7D1"
+            BuildableName = "Alamofire.framework"
+            BlueprintName = "Alamofire iOS"
+            ReferencedContainer = "container:Alamofire.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -90,15 +90,15 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "652314B71A8CF730009BAA58"
-            BuildableName = "EmbeddedFrameworkTestApp.app"
-            BlueprintName = "EmbeddedFrameworkTestApp"
-            ReferencedContainer = "container:EmbeddedFrameworkTestApp.xcodeproj">
+            BlueprintIdentifier = "F8111E3219A95C8B0040E7D1"
+            BuildableName = "Alamofire.framework"
+            BlueprintName = "Alamofire iOS"
+            ReferencedContainer = "container:Alamofire.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
